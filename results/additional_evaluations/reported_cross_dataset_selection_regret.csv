@@ -1,0 +1,3 @@
+probe,family,dataset,retrieval_rank,normalized_regret
+Neighborhood preservation axis,Qwen,COCO,1,0.0
+MFI,Pali,PixelProse,6,0.680063

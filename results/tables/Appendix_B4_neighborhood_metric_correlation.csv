@@ -1,0 +1,8 @@
+metric,lps_text,lps_image_only,lps_image_conditioned,nri_image_conditioned,shared_neighbor_ratio,cross_superclass_gained_frac,align_fit_proxy
+lps_text,1.0,0.748,0.687,-0.717,0.717,-0.623,0.33
+lps_image_only,0.748,1.0,0.668,-0.668,0.668,-0.527,0.295
+lps_image_conditioned,0.687,0.668,1.0,-0.993,0.993,-0.757,0.402
+nri_image_conditioned,-0.717,-0.668,-0.993,1.0,-1.0,0.779,-0.386
+shared_neighbor_ratio,0.717,0.668,0.993,-1.0,1.0,-0.779,0.386
+cross_superclass_gained_frac,-0.623,-0.527,-0.757,0.779,-0.779,1.0,-0.126
+align_fit_proxy,0.33,0.295,0.402,-0.386,0.386,-0.126,1.0

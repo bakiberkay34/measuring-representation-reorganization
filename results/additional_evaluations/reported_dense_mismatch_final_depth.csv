@@ -1,0 +1,10 @@
+family,dataset,depth_fraction,cosine_combined_mismatch,cosine_image_minus_text,cosine_asymmetry_p
+pali,coco,1.0,0.121687,0.16007,0.0001
+qwen,coco,1.0,0.074048,0.066864,0.0001
+pali,flickr30k,1.0,0.100854,0.0971,0.0001
+qwen,pixelprose,1.0,0.062052,-0.082337,0.0001
+smol,flickr30k,1.0,0.055351,0.108999,0.0001
+pali,pixelprose,1.0,0.08607,-0.040736,0.0001
+qwen,flickr30k,1.0,0.060422,0.001812,0.259374
+smol,coco,1.0,0.068567,0.136593,0.0001
+smol,pixelprose,1.0,0.087598,0.162642,0.0001

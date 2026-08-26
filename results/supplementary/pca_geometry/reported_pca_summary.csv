@@ -1,0 +1,10 @@
+model,dataset,effective_dimension,pc90,top1_variance,top5_variance,entropy,mean_alignment,mean_angle,separability
+PaliGemma2-mix,COCO,32.871,64.0,0.073,0.222,3.076,0.363,55.308,0.998
+PaliGemma2-mix,Flickr30k,29.587,64.0,0.097,0.243,3.019,0.365,55.488,0.999
+PaliGemma2-mix,PixelProse,19.684,63.267,0.168,0.325,2.785,0.384,54.379,0.986
+Qwen2-VL-2B,COCO,20.063,62.2,0.126,0.363,3.169,0.5,43.325,0.609
+Qwen2-VL-2B,Flickr30k,16.432,63.267,0.166,0.375,3.103,0.485,44.493,0.726
+Qwen2-VL-2B,PixelProse,8.562,59.933,0.337,0.53,2.576,0.532,43.089,0.803
+SmolVLM-500M,COCO,16.833,57.4,0.147,0.412,3.124,0.461,45.795,0.601
+SmolVLM-500M,Flickr30k,12.192,57.133,0.217,0.451,2.995,0.45,46.475,0.637
+SmolVLM-500M,PixelProse,8.974,49.733,0.28,0.535,2.786,0.506,43.434,0.762

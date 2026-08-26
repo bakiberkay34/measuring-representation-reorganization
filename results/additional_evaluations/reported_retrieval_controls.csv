@@ -1,0 +1,7 @@
+setting,method,mean_mrr_auc
+within_dataset_auc,Direct,0.735382
+within_dataset_auc,Source-fit Procrustes,0.566652
+within_dataset_auc,Shuffled,0.023575
+cross_dataset_auc,Direct,0.526546
+cross_dataset_auc,Source-fit Procrustes,0.211645
+cross_dataset_auc,Shuffled,0.007304

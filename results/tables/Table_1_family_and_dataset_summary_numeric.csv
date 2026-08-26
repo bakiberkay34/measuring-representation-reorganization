@@ -1,0 +1,7 @@
+summary_type,group,mfi,fmp,lps_image_conditioned,nri_image_conditioned
+family,Pali,0.475,0.459,0.115,0.762
+family,Qwen,0.456,0.219,0.124,0.747
+family,Smol,0.337,0.556,0.073,0.843
+dataset,COCO,0.412,0.414,0.114,0.766
+dataset,Flickr30k,0.426,0.317,0.096,0.802
+dataset,PixelProse,0.429,0.503,0.101,0.782

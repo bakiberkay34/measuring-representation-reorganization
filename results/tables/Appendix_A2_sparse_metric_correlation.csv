@@ -1,0 +1,8 @@
+metric,mfi,fmp,mean_text_delta,mean_image_delta,image_driven_frac,text_driven_frac,both_driven_frac
+mfi,1.0,0.35,0.749,0.784,0.324,0.355,0.385
+fmp,0.35,1.0,0.052,0.471,0.713,0.238,-0.549
+mean_text_delta,0.749,0.052,1.0,0.177,-0.252,0.732,0.446
+mean_image_delta,0.784,0.471,0.177,1.0,0.718,-0.158,0.155
+image_driven_frac,0.324,0.713,-0.252,0.718,1.0,-0.406,-0.206
+text_driven_frac,0.355,0.238,0.732,-0.158,-0.406,1.0,0.065
+both_driven_frac,0.385,-0.549,0.446,0.155,-0.206,0.065,1.0

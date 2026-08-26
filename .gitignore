@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pt
+*.pkl
+*.npz
+*.zip
+activation_caches/
+additional_evaluation_outputs/
+results_vlm_feature_geometry_h100/
+superposition_experiment_outputs/
+sae_pixelprose_outputs/
+supplementary_pca_outputs/

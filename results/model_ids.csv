@@ -1,0 +1,13 @@
+analysis_scope,family,model_role,model_id
+primary,Pali,LLM,google/gemma-2-2b
+primary,Pali,VLM,google/paligemma2-3b-pt-224
+primary,Qwen,LLM,Qwen/Qwen2.5-3B-Instruct
+primary,Qwen,VLM,Qwen/Qwen2.5-VL-3B-Instruct
+primary,Smol,LLM,HuggingFaceTB/SmolLM2-1.7B-Instruct
+primary,Smol,VLM,HuggingFaceTB/SmolVLM2-2.2B-Instruct
+auxiliary_pca,Pali,VLM,google/paligemma2-3b-mix-224
+auxiliary_pca,Qwen,VLM,Qwen/Qwen2-VL-2B-Instruct
+auxiliary_pca,Smol,VLM,HuggingFaceTB/SmolVLM-500M-Instruct
+supplementary_gemmascope,Pali,VLM,google/paligemma2-3b-pt-224
+supplementary_multiseed,Pali,LLM,google/gemma-2-2b
+supplementary_multiseed,Pali,VLM,google/paligemma2-3b-mix-224

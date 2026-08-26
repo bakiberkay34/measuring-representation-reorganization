@@ -1,0 +1,7 @@
+setting,contrast,first_mean,second_mean,mean_paired_difference,positive_cell_fraction,exact_sign_flip_p
+within_dataset_auc,direct_minus_procrustes,0.735382,0.566652,0.168729,1.0,0.003906
+within_dataset_auc,direct_minus_shuffled,0.735382,0.023575,0.711807,1.0,0.003906
+within_dataset_auc,procrustes_minus_shuffled,0.566652,0.023575,0.543077,1.0,0.003906
+cross_dataset_auc,direct_minus_procrustes,0.526546,0.211645,0.314901,1.0,0.003906
+cross_dataset_auc,direct_minus_shuffled,0.526546,0.007304,0.519242,1.0,0.003906
+cross_dataset_auc,procrustes_minus_shuffled,0.211645,0.007304,0.204341,1.0,0.003906

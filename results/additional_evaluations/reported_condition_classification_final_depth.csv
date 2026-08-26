@@ -1,0 +1,10 @@
+family,dataset,depth_fraction,macro_f1,accuracy,balanced_accuracy
+pali,coco,1.0,0.553994,0.560547,0.560547
+qwen,coco,1.0,0.61429,0.620605,0.620605
+pali,flickr30k,1.0,0.567444,0.571289,0.571289
+qwen,pixelprose,1.0,0.581347,0.589355,0.589355
+smol,flickr30k,1.0,0.297969,0.310547,0.310547
+pali,pixelprose,1.0,0.598733,0.606934,0.606934
+qwen,flickr30k,1.0,0.646092,0.650391,0.650391
+smol,coco,1.0,0.228164,0.243164,0.243164
+smol,pixelprose,1.0,0.445553,0.451172,0.451172

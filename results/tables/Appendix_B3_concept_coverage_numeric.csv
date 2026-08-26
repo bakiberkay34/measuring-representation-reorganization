@@ -1,0 +1,10 @@
+family,dataset,n_concepts,n_concepts_lo,n_concepts_hi,n_concepts_n
+Pali,COCO,120.0,120.0,120.0,32
+Pali,Flickr30k,120.0,120.0,120.0,32
+Pali,PixelProse,120.0,120.0,120.0,32
+Qwen,COCO,120.0,120.0,120.0,32
+Qwen,Flickr30k,120.0,120.0,120.0,32
+Qwen,PixelProse,120.0,120.0,120.0,32
+Smol,COCO,120.0,120.0,120.0,32
+Smol,Flickr30k,120.0,120.0,120.0,32
+Smol,PixelProse,120.0,120.0,120.0,32
